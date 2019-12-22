@@ -1,0 +1,2 @@
+# Algorithm Miscellaneous
+This repository contains my implementations of some data structures and algorithms after taking related courses in NYU. Feel free to ask any questions or point out my mistakes.
